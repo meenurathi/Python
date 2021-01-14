@@ -1,0 +1,16 @@
+
+1) install pip
+pythom -m install --upgrade pip
+python -m pip install speechrecognition pyttsx3 googletrans
+
+window
+python -m pip install pipwin
+python -m pipwin install pyaudio
+
+python -m pip install translate
+linux
+sudo apt-get install python-pyaudio
+
+http://people.csail.mit.edu/hubert/pyaudio/
+www.thepythoncode.com/article/convert-text-to-speech-in-python
+www.instructables.com/Speech-Recognition-Using-Google-Speech-API-and-Pyt/
